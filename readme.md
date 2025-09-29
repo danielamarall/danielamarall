@@ -15,7 +15,7 @@
   Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender novas tecnologias. Atualmente, estou focado em aprimorar minhas habilidades em [adicione aqui, ex: desenvolvimento Web com React e Vue.js].
 </p>
 <p>
-  Tenho um interesse especial por [adicione aqui, ex: design de interfaces (UI/UX), desenvolvimento de APIs, etc.] e estou sempre em busca de projetos desafiadores para colaborar e crescer profissionalmente.
+  Tenho um interesse especial por design de interfaces (UI/UX), desenvolvimento de APIs e sistemas web e estou sempre em busca de projetos desafiadores para colaborar e crescer profissionalmente.
 </p>
 
 <br>
