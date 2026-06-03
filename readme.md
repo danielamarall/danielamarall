@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre
 
-Engenheiro Fullstack atuando como **responsável técnico (technical owner)** de múltiplos produtos web e mobile em produção. Projeto e construo **plataformas SaaS multi-tenant**, **camadas de IA aplicada** (RAG, Text-to-SQL, Function Calling) e **orquestração de infraestrutura** — do desenho de schema de banco ao deploy.
+Engenheiro Fullstack atuando como **responsável técnico (technical owner)** de múltiplos produtos web e mobile em produção. Projeto e construo **plataformas SaaS multi-tenant**, **camadas de IA aplicada** (RAG, Text-to-SQL, Function Calling) e **orquestração de infraestrutura** do desenho de schema de banco ao deploy.
 
 - 🏗️ **Foco:** arquitetura de sistemas escaláveis, multi-tenancy, RBAC e IA aplicada.
 - 🤖 **IA:** RAG/embeddings, Text-to-SQL, Function Calling e pipelines de dados com múltiplos provedores de LLM.
